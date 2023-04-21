@@ -2,7 +2,7 @@
 Record my project exercises in the process of learning C++
 
 
-#First practice--calculate area of the rectangle
+#Practice1--calculate area of the rectangle
 
 Create a program that takes in user input for the length and width of a rectangle, and then calculates and displays the area and perimeter of the rectangle.
 Here are the steps to implement this program:
@@ -20,3 +20,6 @@ Here are the steps to implement this program:
 4.Display the results using cout.
 
 5.End the program.
+
+#Practice2--Learning how to use "if" statement
+
