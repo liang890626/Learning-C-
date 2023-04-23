@@ -8,6 +8,7 @@
  -It is a multiple of 400, or
  -It is a multiple of 4 but not a multiple of 100.*/
 
+//Using Switch case statement:
 #include <iostream>
 using namespace std;
 
@@ -30,7 +31,7 @@ int main() {
 		isLeapYear = false;
 	}
 
-    // Calculate number of days based on month and leap year status. Using Switch case statement:
+    // Calculate number of days based on month and leap year status.
     switch(month) {
         case 1: // January
         case 3: // March
